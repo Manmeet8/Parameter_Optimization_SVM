@@ -23,11 +23,12 @@ Parameter optimization is the process of systematically searching through the pa
 
 ## Final Result Table
 
-![image](https://user-images.githubusercontent.com/98878944/233163183-83c0e11e-75d1-4b2c-a5d2-9c2dcf9fae28.png)
+![image](https://user-images.githubusercontent.com/98878944/233184750-6e25154d-e955-462b-b8a6-8c505cc056d1.png)
+
 
 ## Convergence Graph
 
-![image](https://user-images.githubusercontent.com/98878944/233163716-ff58ec85-a96a-4685-b079-c2a597daef34.png)
+![image](https://user-images.githubusercontent.com/98878944/233185102-7eb37918-9052-40b8-bd0a-33722356f036.png)
 
 
 ## Submission by :

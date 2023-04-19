@@ -27,6 +27,7 @@ Parameter optimization is the process of systematically searching through the pa
 
 ## Convergence Graph
 
+![image](https://user-images.githubusercontent.com/98878944/233163716-ff58ec85-a96a-4685-b079-c2a597daef34.png)
 
 
 ## Submission by :

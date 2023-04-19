@@ -7,7 +7,7 @@ To achieve optimal performance from SVM, it is essential to carefully select var
 
 Parameter optimization is the process of systematically searching through the parameter space to identify the best combination of parameter values that maximizes the performance of the SVM model on a given dataset. There are several methods for parameter optimization, including grid search, random search, and Bayesian optimization. These methods help in finding the best set of parameter values that improve the accuracy of the SVM model on the test data.
 
-#Tasks Performed
+# Tasks Performed
 
 
 Download the dataset

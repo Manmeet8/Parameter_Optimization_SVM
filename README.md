@@ -17,7 +17,7 @@ Parameter optimization is the process of systematically searching through the pa
 6. For the best sample plot the convergence graph
 
 
-## Dataset used : https://archive.ics.uci.edu/ml/datasets/Letter+Recognition
+## Dataset used : https://archive.ics.uci.edu/ml/datasets/Statlog+(Landsat+Satellite)
 
 ![image](https://user-images.githubusercontent.com/98878944/233161997-fd0d3686-1ce2-4ce8-bc98-e921025b900f.png)
 
